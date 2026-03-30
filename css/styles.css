@@ -665,25 +665,47 @@ textarea {
 
 @media (max-width: 760px) {
   .nav-shell {
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    gap: 0.75rem;
+    padding: 0.8rem 0;
+    min-height: 4.5rem;
   }
 
   .brand-logo {
-    width: 4.5rem;
-    height: 4.5rem;
+    width: 3.35rem;
+    height: 3.35rem;
   }
 
   .brand-copy {
-    min-height: 4.5rem;
+    min-height: 3.35rem;
+  }
+
+  .brand-copy strong {
+    font-size: 1.15rem;
+    line-height: 1.05;
+  }
+
+  .brand-mark {
+    gap: 0.65rem;
+    min-width: 0;
   }
 
   .nav-toggle {
     display: inline-flex;
+    flex-shrink: 0;
+    padding: 0.55rem 0.75rem;
+    font-size: 0.95rem;
   }
 
   .site-nav {
     width: 100%;
     display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: rgba(246, 247, 242, 0.98);
+    border-bottom: 1px solid rgba(31, 92, 59, 0.1);
+    box-shadow: 0 14px 30px rgba(21, 63, 41, 0.08);
   }
 
   .site-nav.open {
@@ -693,7 +715,7 @@ textarea {
   .site-nav ul {
     flex-direction: column;
     align-items: stretch;
-    padding-top: 0.5rem;
+    padding: 0.75rem 1rem 1rem;
   }
 
   .site-nav a {
