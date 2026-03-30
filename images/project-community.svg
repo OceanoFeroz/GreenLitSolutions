@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Community project placeholder</title>
+  <desc id="desc">Illustrated placeholder for a community building project.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f5c3b"/>
+      <stop offset="100%" stop-color="#2d7a50"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <circle cx="975" cy="160" r="84" fill="#e0b422" opacity="0.35"/>
+  <rect x="105" y="180" width="215" height="335" rx="26" fill="#f6f7f2" opacity="0.92"/>
+  <rect x="370" y="120" width="265" height="395" rx="28" fill="#f6f7f2" opacity="0.95"/>
+  <rect x="690" y="215" width="245" height="300" rx="24" fill="#f6f7f2" opacity="0.9"/>
+  <path d="M110 520h900v75H110z" fill="#153f29"/>
+  <path d="M830 520h195v-165l-195 165z" fill="#e0b422" opacity="0.92"/>
+  <text x="110" y="620" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Community Building Project</text>
+  <text x="110" y="680" fill="#f4cf58" font-family="Segoe UI, Arial, sans-serif" font-size="28">Placeholder image ready to replace with project photography.</text>
+</svg>

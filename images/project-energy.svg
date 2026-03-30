@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Green energy project placeholder</title>
+  <desc id="desc">Illustrated placeholder for a green energy project.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6f7f2"/>
+      <stop offset="100%" stop-color="#d8eadb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#sky)"/>
+  <rect y="480" width="1200" height="270" fill="#1f5c3b"/>
+  <circle cx="210" cy="180" r="78" fill="#e0b422"/>
+  <g fill="none" stroke="#153f29" stroke-width="14" stroke-linecap="round">
+    <path d="M760 470V235"/>
+    <path d="M760 235l-118 62"/>
+    <path d="M760 235l118 62"/>
+    <path d="M760 235l0-137"/>
+    <path d="M760 235l-118-62"/>
+    <path d="M760 235l118-62"/>
+  </g>
+  <g fill="none" stroke="#153f29" stroke-width="12" stroke-linecap="round">
+    <path d="M955 470V290"/>
+    <path d="M955 290l-88 46"/>
+    <path d="M955 290l88 46"/>
+    <path d="M955 290l0-102"/>
+    <path d="M955 290l-88-46"/>
+    <path d="M955 290l88-46"/>
+  </g>
+  <rect x="126" y="280" width="230" height="140" rx="20" fill="#ffffff" stroke="#2d7a50" stroke-width="8"/>
+  <g fill="#e0b422">
+    <rect x="150" y="305" width="42" height="92" rx="8"/>
+    <rect x="200" y="305" width="42" height="92" rx="8"/>
+    <rect x="250" y="305" width="42" height="92" rx="8"/>
+    <rect x="300" y="305" width="32" height="92" rx="8"/>
+  </g>
+  <text x="110" y="620" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Green Energy Project</text>
+  <text x="110" y="680" fill="#f4cf58" font-family="Segoe UI, Arial, sans-serif" font-size="28">Placeholder image for solar, wind, or energy resilience work.</text>
+</svg>

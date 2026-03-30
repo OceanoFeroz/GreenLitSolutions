@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Map placeholder</title>
+  <desc id="desc">Placeholder image for business location map.</desc>
+  <rect width="1200" height="750" fill="#e8efe9"/>
+  <path d="M120 170l225-65 240 85 255-70 240 80v385l-240-80-255 70-240-85-225 65z" fill="#ffffff" stroke="#1f5c3b" stroke-width="10"/>
+  <path d="M345 105v385M585 190v385M840 120v385" stroke="#d2ddd3" stroke-width="8"/>
+  <path d="M175 300h850M145 435h900" stroke="#d2ddd3" stroke-width="8"/>
+  <path d="M610 250c0-45 35-79 79-79s79 34 79 79c0 58-79 157-79 157S610 308 610 250z" fill="#e0b422" stroke="#153f29" stroke-width="10"/>
+  <circle cx="689" cy="250" r="28" fill="#ffffff"/>
+  <text x="120" y="680" fill="#1f5c3b" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Map placeholder for future office or project location details</text>
+</svg>
